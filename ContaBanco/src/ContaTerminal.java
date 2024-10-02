@@ -7,6 +7,7 @@ public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         //objeto scanner
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
+        //objeto teclado para melhor leitura da String
         Scanner teclado = new Scanner(System.in);
         
         
