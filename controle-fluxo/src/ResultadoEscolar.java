@@ -3,11 +3,11 @@ public class ResultadoEscolar {
     
     double nota = 7.2;
 
-    if(nota >=7)
-    System.out.println("Aprovado!");
+    if(nota >=7){
+      System.out.println("Aprovado!");
     
-    else
-    System.out.println("Reprovado!");
+    } else
+      System.out.println("Reprovado!");
     
 
   }
